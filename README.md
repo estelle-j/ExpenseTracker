@@ -43,4 +43,4 @@ baseCurrencyAmount = baseCurrencyAmount * exchangeRate
 
 ### Change Base Currency
 
-The app gets data exchange rates from the European Central Bank. The base currency is the euro. If you want to convert expenses between currencies other than the euro, you may want to get the exchange rates from other central banks.
+The app gets exchange rates from the European Central Bank. The base currency is the euro. If you want to convert expenses between currencies other than the euro, you may want to get the exchange rates from other central banks.
